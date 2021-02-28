@@ -1,3 +1,3 @@
-# image-to-html
+# html-websites
 
-HTML websites that I've created from image. They are not pixel perfect nor responsive.
+HTML websites that I've 4fun or 4someone.
