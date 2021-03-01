@@ -45,7 +45,7 @@ body {
   color: gray;
 }
 
-.navigation li:first-of-type .top {
+.navigation li:hover .top {
   color: orange;
 }
 
