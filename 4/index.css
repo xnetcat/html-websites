@@ -1,5 +1,3 @@
-@import url("//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css");
-
 body {
   margin: 0 auto;
   background-color: #252525;
@@ -69,7 +67,7 @@ body {
   color: #fff;
   font-size: 20px;
   font-weight: normal;
-  line-height: 2em;
+  line-height: 2.1em;
   border-radius: 20px;
   background-color: #232323;
 }
@@ -79,28 +77,43 @@ body {
 }
 
 .social .linkedin:before {
-  font-family: "FontAwesome";
-  content: "\f0e1";
+  background: url('zdjecia/linkedin.svg') center / cover;
+  content: "";
+  display: inline-block;
+  width: 18px;
+  height: 18px;
 }
 
 .social .twitter:before {
-  font-family: "FontAwesome";
-  content: "\f099";
+  background: url('zdjecia/twitter.svg') center / cover;
+  content: "";
+  display: inline-block;
+  width: 18px;
+  height: 18px;
 }
 
 .social .pinterest:before {
-  font-family: "FontAwesome";
-  content: "\f0d2";
+  background: url('zdjecia/pinterest.svg') center / cover;
+  content: "";
+  display: inline-block;
+  width: 18px;
+  height: 18px;
 }
 
 .social .gplus:before {
-  font-family: "FontAwesome";
-  content: "\f0d5";
+  background: url('zdjecia/google-plus.svg') center / cover;
+  content: "";
+  display: inline-block;
+  width: 18px;
+  height: 18px;
 }
 
 .social .rss:before {
-  font-family: "FontAwesome";
-  content: "\f09e";
+  background: url('zdjecia/rss.svg') center / cover;
+  content: "";
+  display: inline-block;
+  width: 18px;
+  height: 18px;
 }
 
 #header {
